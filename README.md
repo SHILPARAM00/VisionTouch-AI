@@ -91,7 +91,7 @@ pip install -r requirements.txt
 python main.py
 Make sure your webcam is connected.
 
-## 🎯Project Goal
+## 🎯 Project Goal
 
 To explore touchless human-computer interaction by replacing traditional input devices with AI-powered hand gesture recognition.
 
