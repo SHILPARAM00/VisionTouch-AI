@@ -82,21 +82,19 @@ Clone the repository:
 git clone https://github.com/SHILPARAM00/VisionTouch-AI.git
 
 Go inside the project:
-
 cd VisionTouch-AI
 
 Install dependencies:
-
 pip install -r requirements.txt
+
 ▶️ Run Project
 python main.py
-
 Make sure your webcam is connected.
 
-🎯 Project Goal
+## 🎯Project Goal
 
 To explore touchless human-computer interaction by replacing traditional input devices with AI-powered hand gesture recognition.
 
-👩‍💻 Developer
+## 👩‍💻 Developer
 
 Shilpa
